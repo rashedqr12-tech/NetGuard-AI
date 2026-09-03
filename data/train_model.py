@@ -5,8 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import joblib
 
 # Load network data
-data = pd.read_csv("data/network_data.csv")
-
+data = pd.read_csv("network_data.csv")
 # Features used by the AI model
 features = [
     "latency_ms",
