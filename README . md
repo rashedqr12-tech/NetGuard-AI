@@ -1,0 +1,17 @@
+# NetGuard-AI
+## Smart Network Failure Prediction System
+
+NetGuard-AI is an AI-powered system designed to monitor network performance and predict potential network failures before they occur.
+
+## Project Goal
+
+The system analyzes network metrics such as latency, packet loss, bandwidth, CPU usage, and memory usage to identify abnormal behavior and predict possible network failures.
+
+## Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- PostgreSQL
+- FastAPI
+- Streamlit
